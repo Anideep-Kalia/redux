@@ -1,0 +1,3 @@
+-> zustand is a easier version for redux so give it a try
+
+-> for using funciton we need to import from the specific file
